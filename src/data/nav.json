@@ -1,0 +1,2941 @@
+[
+ {
+  "label": "Who We Are",
+  "href": "/about",
+  "wrapped": true,
+  "rail": [
+   {
+    "id": "wa-about",
+    "label": "About Us"
+   },
+   {
+    "id": "wa-lead",
+    "label": "Leadership"
+   },
+   {
+    "id": "wa-gov",
+    "label": "Governance"
+   },
+   {
+    "id": "wa-people",
+    "label": "People & Careers"
+   },
+   {
+    "id": "wa-commit",
+    "label": "Our Commitments"
+   }
+  ],
+  "panels": [
+   {
+    "id": "wa-about",
+    "title": "About Us Overview",
+    "titleHref": "/about",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Who We Are"
+      },
+      {
+       "text": "Overview",
+       "href": "/about"
+      },
+      {
+       "text": "Our Leadership",
+       "href": "/leadership"
+      },
+      {
+       "text": "Purpose, Mission & Values",
+       "href": "/purpose"
+      },
+      {
+       "text": "Our History",
+       "href": "/history"
+      },
+      {
+       "text": "Our Aspiration",
+       "href": "/aspiration"
+      },
+      {
+       "text": "Our Governance",
+       "href": "/governance-detail"
+      },
+      {
+       "label": "How We Work"
+      },
+      {
+       "text": "Alliances",
+       "href": "/alliances"
+      },
+      {
+       "text": "Solutions",
+       "href": "/solutions"
+      },
+      {
+       "text": "Partner Capabilities Network",
+       "href": "/client-network"
+      },
+      {
+       "text": "Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "From Idea to Impact",
+       "href": "/idea-to-impact"
+      }
+     ],
+     [
+      {
+       "label": "Our Commitments"
+      },
+      {
+       "text": "Diverse Meritocracy",
+       "href": "/diversity"
+      },
+      {
+       "text": "Economic Opportunity",
+       "href": "/economic-opportunity"
+      },
+      {
+       "text": "Social Responsibility",
+       "href": "/social-responsibility"
+      },
+      {
+       "text": "Environmental Sustainability",
+       "href": "/environmental"
+      },
+      {
+       "text": "Sustainable Growth Report",
+       "href": "/sustainable-report"
+      },
+      {
+       "label": "Keep Exploring"
+      },
+      {
+       "text": "Alumni Network",
+       "href": "/alumni"
+      },
+      {
+       "text": "Locations & Offices",
+       "href": "/locations"
+      },
+      {
+       "text": "Media",
+       "href": "/media"
+      },
+      {
+       "text": "Annual Reports",
+       "href": "/annual-reports"
+      },
+      {
+       "text": "Transparency",
+       "href": "/transparency"
+      }
+     ],
+     [
+      {
+       "label": "Strategy"
+      },
+      {
+       "text": "Our Mission",
+       "href": "/mission"
+      },
+      {
+       "text": "Our Vision",
+       "href": "/vision"
+      },
+      {
+       "text": "Core Values",
+       "href": "/values"
+      },
+      {
+       "text": "2026 Strategic Framework",
+       "href": "/strategy"
+      },
+      {
+       "text": "Ethics & Integrity",
+       "href": "/ethics"
+      },
+      {
+       "text": "Contact the Secretariat",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/economic-opportunity",
+      "title": "Growing economic opportunity",
+      "text": "Helping nations thrive, economies prosper, and people progress through systemic reform."
+     },
+     {
+      "href": "/health-institute",
+      "title": "Health Systems Institute",
+      "text": "Strengthening health institutions as a foundation of human capital and long-term growth."
+     },
+     {
+      "href": "/institute-mobility",
+      "title": "Institute for Economic Mobility",
+      "text": "Accelerating inclusive growth and improving economic mobility across partner nations."
+     }
+    ]
+   },
+   {
+    "id": "wa-lead",
+    "title": "Leadership",
+    "titleHref": "/leadership",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Executive"
+      },
+      {
+       "text": "Executive Leadership",
+       "href": "/leadership"
+      },
+      {
+       "text": "Dr. Shah — Founder & President",
+       "href": "/leadership"
+      },
+      {
+       "text": "Martin Cressey — Global Operations Director",
+       "href": "/leadership"
+      },
+      {
+       "text": "Secretariat",
+       "href": "/secretariat"
+      }
+     ],
+     [
+      {
+       "label": "Oversight"
+      },
+      {
+       "text": "Board of Governors",
+       "href": "/board"
+      },
+      {
+       "text": "Advisory Council",
+       "href": "/advisory"
+      },
+      {
+       "text": "Governance Framework",
+       "href": "/governance-detail"
+      }
+     ],
+     [
+      {
+       "label": "People"
+      },
+      {
+       "text": "Our People",
+       "href": "/people"
+      },
+      {
+       "text": "Alumni Network",
+       "href": "/alumni"
+      },
+      {
+       "text": "Global Offices",
+       "href": "/locations"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/leadership",
+      "title": "Dr. Shah",
+      "text": "Founder & President — strategic vision, institutional partnerships and flagship programmes."
+     },
+     {
+      "href": "/leadership",
+      "title": "Martin Cressey",
+      "text": "Global Operations Director — multi-country delivery and capital partner engagement."
+     }
+    ]
+   },
+   {
+    "id": "wa-gov",
+    "title": "Governance",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Board of Governors",
+       "href": "/board"
+      },
+      {
+       "text": "Secretariat",
+       "href": "/secretariat"
+      },
+      {
+       "text": "Advisory Council",
+       "href": "/advisory"
+      },
+      {
+       "text": "Governance Framework",
+       "href": "/governance-detail"
+      }
+     ],
+     [
+      {
+       "text": "Transparency",
+       "href": "/transparency"
+      },
+      {
+       "text": "Ethics & Integrity",
+       "href": "/ethics"
+      },
+      {
+       "text": "Annual Reports",
+       "href": "/annual-reports"
+      },
+      {
+       "text": "Sustainable Growth Report",
+       "href": "/sustainable-report"
+      }
+     ],
+     [
+      {
+       "text": "Strategic Framework",
+       "href": "/strategy"
+      },
+      {
+       "text": "Procurement Policies",
+       "href": "/procurement"
+      },
+      {
+       "text": "Governance Enquiries",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/annual-reports",
+      "title": "Annual Reports",
+      "text": "Institutional accountability, programme results and financial transparency."
+     }
+    ]
+   },
+   {
+    "id": "wa-people",
+    "title": "People & Careers",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Our People",
+       "href": "/people"
+      },
+      {
+       "text": "Careers",
+       "href": "/careers"
+      },
+      {
+       "text": "Internships",
+       "href": "/internships"
+      },
+      {
+       "text": "Secondments & Fellowships",
+       "href": "/secondments"
+      }
+     ],
+     [
+      {
+       "text": "Diverse Meritocracy",
+       "href": "/diversity"
+      },
+      {
+       "text": "Alumni Network",
+       "href": "/alumni"
+      },
+      {
+       "text": "Locations",
+       "href": "/locations"
+      }
+     ],
+     [
+      {
+       "text": "Procurement",
+       "href": "/procurement"
+      },
+      {
+       "text": "Contact HR",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/careers",
+      "title": "Join UNERA",
+      "text": "Build careers in economic reform, policy design and national transformation."
+     }
+    ]
+   },
+   {
+    "id": "wa-commit",
+    "title": "Our Commitments",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Diverse Meritocracy",
+       "href": "/diversity"
+      },
+      {
+       "text": "Economic Opportunity",
+       "href": "/economic-opportunity"
+      },
+      {
+       "text": "Social Responsibility",
+       "href": "/social-responsibility"
+      }
+     ],
+     [
+      {
+       "text": "Environmental Sustainability",
+       "href": "/environmental"
+      },
+      {
+       "text": "Sustainable Growth Report",
+       "href": "/sustainable-report"
+      },
+      {
+       "text": "SDG Alignment",
+       "href": "/sdg"
+      }
+     ],
+     [
+      {
+       "text": "Ethics & Integrity",
+       "href": "/ethics"
+      },
+      {
+       "text": "Transparency",
+       "href": "/transparency"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/sustainable-report",
+      "title": "Sustainable Growth Report",
+      "text": "How UNERA embeds sustainability and inclusion across reform programmes."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "What We Do",
+  "href": "/capabilities",
+  "wrapped": true,
+  "rail": [
+   {
+    "id": "wd-cap",
+    "label": "Capabilities"
+   },
+   {
+    "id": "wd-sec",
+    "label": "Sectors"
+   },
+   {
+    "id": "wd-econ",
+    "label": "Economic Reform"
+   },
+   {
+    "id": "wd-infra",
+    "label": "Infrastructure & Capital"
+   },
+   {
+    "id": "wd-govt",
+    "label": "Government"
+   },
+   {
+    "id": "wd-prog",
+    "label": "Programmes"
+   },
+   {
+    "id": "wd-dig",
+    "label": "Digital & Innovation"
+   },
+   {
+    "id": "wd-green",
+    "label": "Green Transition"
+   },
+   {
+    "id": "wd-del",
+    "label": "Delivery & Results"
+   },
+   {
+    "id": "wd-intel",
+    "label": "Intelligence & Diagnostics"
+   },
+   {
+    "id": "wd-trade",
+    "label": "Trade & Markets"
+   },
+   {
+    "id": "wd-human",
+    "label": "Human Capital"
+   }
+  ],
+  "panels": [
+   {
+    "id": "wd-cap",
+    "title": "Capabilities",
+    "titleHref": "/capabilities",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Core Capabilities"
+      },
+      {
+       "text": "National Transformation",
+       "href": "/transform"
+      },
+      {
+       "text": "Economic Reform",
+       "href": "/economy"
+      },
+      {
+       "text": "Government Transformation",
+       "href": "/ministries"
+      },
+      {
+       "text": "Infrastructure",
+       "href": "/infrastructure"
+      },
+      {
+       "text": "Investment & Capital",
+       "href": "/investment"
+      },
+      {
+       "text": "Digital Economy",
+       "href": "/innovation"
+      },
+      {
+       "text": "Green Transition",
+       "href": "/green"
+      },
+      {
+       "label": "Advanced Capabilities"
+      },
+      {
+       "text": "Artificial Intelligence",
+       "href": "/ai-cap"
+      },
+      {
+       "text": "Institution Building",
+       "href": "/business-building"
+      },
+      {
+       "text": "Geopolitics",
+       "href": "/geopolitics"
+      }
+     ],
+     [
+      {
+       "label": "Functional Expertise"
+      },
+      {
+       "text": "Implementation",
+       "href": "/implementation"
+      },
+      {
+       "text": "Operations Excellence",
+       "href": "/operations"
+      },
+      {
+       "text": "People & Organization",
+       "href": "/people-org"
+      },
+      {
+       "text": "Risk & Resilience",
+       "href": "/risk-resilience"
+      },
+      {
+       "text": "Strategy & Corporate Finance",
+       "href": "/strategy-finance"
+      },
+      {
+       "text": "Growth, Marketing & Sales",
+       "href": "/growth-marketing"
+      },
+      {
+       "text": "M&A and Restructuring",
+       "href": "/ma"
+      },
+      {
+       "text": "Sustainability",
+       "href": "/sustainability-cap"
+      },
+      {
+       "text": "Technology",
+       "href": "/tech-cap"
+      },
+      {
+       "text": "Transformation",
+       "href": "/transformation-cap"
+      }
+     ],
+     [
+      {
+       "label": "Delivery Systems"
+      },
+      {
+       "text": "Delivery & Implementation",
+       "href": "/delivery"
+      },
+      {
+       "text": "Monitoring & Evaluation",
+       "href": "/monitoring"
+      },
+      {
+       "text": "Country Diagnostics",
+       "href": "/diagnostics"
+      },
+      {
+       "text": "Economic Intelligence",
+       "href": "/intelligence"
+      },
+      {
+       "text": "Flagship Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      },
+      {
+       "text": "Reform Toolkits",
+       "href": "/toolkits"
+      },
+      {
+       "text": "Best Practices",
+       "href": "/best-practices"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/transform",
+      "title": "National Transformation",
+      "text": "Multi-year, whole-of-government programmes for structural change and competitiveness."
+     },
+     {
+      "href": "/business-building",
+      "title": "Institution Building",
+      "text": "Put institutional capability at the heart of national growth strategy."
+     },
+     {
+      "href": "/delivery",
+      "title": "Delivery Systems",
+      "text": "From reform design to implementation units and results frameworks."
+     }
+    ]
+   },
+   {
+    "id": "wd-sec",
+    "title": "Sectors",
+    "titleHref": "/sectors",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Productive Sectors"
+      },
+      {
+       "text": "Agriculture & Agribusiness",
+       "href": "/agriculture"
+      },
+      {
+       "text": "Industry & Manufacturing",
+       "href": "/industry"
+      },
+      {
+       "text": "Mining & Resources",
+       "href": "/mining"
+      },
+      {
+       "text": "Oil & Gas",
+       "href": "/oil-gas"
+      },
+      {
+       "text": "Metals & Mining",
+       "href": "/metals"
+      },
+      {
+       "text": "Chemicals",
+       "href": "/chemicals"
+      },
+      {
+       "text": "Consumer Packaged Goods",
+       "href": "/cpg"
+      },
+      {
+       "text": "Packaging & Materials",
+       "href": "/packaging"
+      },
+      {
+       "text": "Engineering & Construction",
+       "href": "/engineering"
+      }
+     ],
+     [
+      {
+       "label": "Infrastructure & Services"
+      },
+      {
+       "text": "Energy & Utilities",
+       "href": "/energy"
+      },
+      {
+       "text": "Electric Power & Natural Gas",
+       "href": "/electric-power"
+      },
+      {
+       "text": "Energy and Materials",
+       "href": "/energy-materials"
+      },
+      {
+       "text": "Transport & Logistics",
+       "href": "/transport"
+      },
+      {
+       "text": "Logistics",
+       "href": "/logistics-sector"
+      },
+      {
+       "text": "Infrastructure",
+       "href": "/infrastructure"
+      },
+      {
+       "text": "Water & Sanitation",
+       "href": "/water"
+      },
+      {
+       "text": "Urban Development",
+       "href": "/urban"
+      },
+      {
+       "text": "Real Estate",
+       "href": "/real-estate-sector"
+      }
+     ],
+     [
+      {
+       "label": "Social & Advanced"
+      },
+      {
+       "text": "Healthcare",
+       "href": "/healthcare-sector"
+      },
+      {
+       "text": "Life Sciences",
+       "href": "/life-sciences"
+      },
+      {
+       "text": "Education",
+       "href": "/education-sector"
+      },
+      {
+       "text": "Financial Services",
+       "href": "/financial-services"
+      },
+      {
+       "text": "Public Sector",
+       "href": "/public-sector"
+      },
+      {
+       "text": "Social Sector",
+       "href": "/social-sector"
+      },
+      {
+       "text": "Technology, Media & Telecom",
+       "href": "/telecom"
+      },
+      {
+       "text": "Semiconductors",
+       "href": "/semiconductors"
+      },
+      {
+       "text": "Tourism & Travel",
+       "href": "/tourism"
+      },
+      {
+       "text": "Aerospace & Defense",
+       "href": "/aerospace"
+      },
+      {
+       "text": "Automotive & Assembly",
+       "href": "/automotive"
+      },
+      {
+       "text": "Private Capital",
+       "href": "/private-capital"
+      },
+      {
+       "text": "Retail",
+       "href": "/retail-sector"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/energy",
+      "title": "Energy & Utilities",
+      "text": "Power sector reform, utilities modernization and energy transition pathways."
+     },
+     {
+      "href": "/public-sector",
+      "title": "Public Sector",
+      "text": "Institutional reform across finance, planning and service delivery."
+     },
+     {
+      "href": "/financial-services",
+      "title": "Financial Services",
+      "text": "Capital markets, banking sector reform and financial inclusion."
+     }
+    ]
+   },
+   {
+    "id": "wd-econ",
+    "title": "Economic Reform",
+    "titleHref": "/economy",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Macro & Fiscal"
+      },
+      {
+       "text": "Economic Reform Overview",
+       "href": "/economy"
+      },
+      {
+       "text": "Fiscal Policy",
+       "href": "/fiscal"
+      },
+      {
+       "text": "Monetary Policy",
+       "href": "/monetary"
+      },
+      {
+       "text": "Public Finance Management",
+       "href": "/public-finance"
+      },
+      {
+       "text": "Debt Management",
+       "href": "/debt"
+      },
+      {
+       "text": "Structural Reform",
+       "href": "/structural"
+      }
+     ],
+     [
+      {
+       "label": "Markets & Integration"
+      },
+      {
+       "text": "Trade & Integration",
+       "href": "/trade"
+      },
+      {
+       "text": "Capital Markets",
+       "href": "/capital-markets"
+      },
+      {
+       "text": "FDI Facilitation",
+       "href": "/fdi"
+      },
+      {
+       "text": "Regulatory Reform",
+       "href": "/regulatory"
+      },
+      {
+       "text": "Private Capital",
+       "href": "/private-capital"
+      }
+     ],
+     [
+      {
+       "label": "Evidence & Design"
+      },
+      {
+       "text": "Country Diagnostics",
+       "href": "/diagnostics"
+      },
+      {
+       "text": "Economic Intelligence",
+       "href": "/intelligence"
+      },
+      {
+       "text": "Monitoring & Evaluation",
+       "href": "/monitoring"
+      },
+      {
+       "text": "Reform Toolkits",
+       "href": "/toolkits"
+      },
+      {
+       "text": "Best Practices",
+       "href": "/best-practices"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/economy",
+      "title": "Systemic Economic Reform",
+      "text": "Coherent frameworks across fiscal, monetary, structural and institutional domains."
+     },
+     {
+      "href": "/fiscal",
+      "title": "Fiscal Policy",
+      "text": "Revenue, expenditure and fiscal rules aligned with growth and sustainability."
+     }
+    ]
+   },
+   {
+    "id": "wd-infra",
+    "title": "Infrastructure & Capital",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Infrastructure"
+      },
+      {
+       "text": "Infrastructure Overview",
+       "href": "/infrastructure"
+      },
+      {
+       "text": "Transport Infrastructure",
+       "href": "/transport-infra"
+      },
+      {
+       "text": "Energy Infrastructure",
+       "href": "/energy-infra"
+      },
+      {
+       "text": "Digital Infrastructure",
+       "href": "/digital-infra"
+      },
+      {
+       "text": "Water & Sanitation",
+       "href": "/water"
+      },
+      {
+       "text": "Urban Development",
+       "href": "/urban"
+      }
+     ],
+     [
+      {
+       "label": "Capital & Finance"
+      },
+      {
+       "text": "Investment Facilitation",
+       "href": "/investment"
+      },
+      {
+       "text": "Public-Private Partnerships",
+       "href": "/ppps"
+      },
+      {
+       "text": "Blended Finance",
+       "href": "/blended-finance"
+      },
+      {
+       "text": "Capital Markets",
+       "href": "/capital-markets"
+      },
+      {
+       "text": "Climate Finance",
+       "href": "/climate-finance"
+      },
+      {
+       "text": "FDI Facilitation",
+       "href": "/fdi"
+      },
+      {
+       "text": "Debt Management",
+       "href": "/debt"
+      }
+     ],
+     [
+      {
+       "label": "Structures"
+      },
+      {
+       "text": "Private Capital",
+       "href": "/private-capital"
+      },
+      {
+       "text": "Development Banks",
+       "href": "/dev-banks"
+      },
+      {
+       "text": "Programme Partnerships",
+       "href": "/partnerships"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/ppps",
+      "title": "Public-Private Partnerships",
+      "text": "Structuring bankable infrastructure with public and private capital."
+     },
+     {
+      "href": "/blended-finance",
+      "title": "Blended Finance",
+      "text": "Combining concessional and commercial capital behind reform priorities."
+     }
+    ]
+   },
+   {
+    "id": "wd-govt",
+    "title": "Government Transformation",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Core Institutions"
+      },
+      {
+       "text": "Government Transformation Overview",
+       "href": "/ministries"
+      },
+      {
+       "text": "Finance Ministries",
+       "href": "/finance-ministries"
+      },
+      {
+       "text": "Central Banks",
+       "href": "/central-banks"
+      },
+      {
+       "text": "Planning Commissions",
+       "href": "/planning"
+      },
+      {
+       "text": "Regulatory Bodies",
+       "href": "/regulatory"
+      }
+     ],
+     [
+      {
+       "label": "Capability"
+      },
+      {
+       "text": "Institutional Delivery",
+       "href": "/delivery"
+      },
+      {
+       "text": "Implementation",
+       "href": "/implementation"
+      },
+      {
+       "text": "Operations Excellence",
+       "href": "/operations"
+      },
+      {
+       "text": "People & Organization",
+       "href": "/people-org"
+      },
+      {
+       "text": "Public Sector",
+       "href": "/public-sector"
+      }
+     ],
+     [
+      {
+       "label": "Systems"
+      },
+      {
+       "text": "Public Finance Management",
+       "href": "/public-finance"
+      },
+      {
+       "text": "Digital Public Infrastructure",
+       "href": "/digital-infra"
+      },
+      {
+       "text": "Results & Accountability",
+       "href": "/monitoring"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/ministries",
+      "title": "Strengthening Institutions",
+      "text": "Building the institutional architecture required for credible, lasting reform."
+     },
+     {
+      "href": "/finance-ministries",
+      "title": "Finance Ministries",
+      "text": "Fiscal frameworks, PFM systems and reform coordination capacity."
+     }
+    ]
+   },
+   {
+    "id": "wd-prog",
+    "title": "Programmes",
+    "titleHref": "/programmes",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Flagship"
+      },
+      {
+       "text": "Flagship Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "National Transformation",
+       "href": "/transform"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      },
+      {
+       "text": "Country Diagnostics",
+       "href": "/diagnostics"
+      }
+     ],
+     [
+      {
+       "label": "Support Systems"
+      },
+      {
+       "text": "Economic Intelligence",
+       "href": "/intelligence"
+      },
+      {
+       "text": "Delivery Models",
+       "href": "/delivery"
+      },
+      {
+       "text": "M&E Frameworks",
+       "href": "/monitoring"
+      },
+      {
+       "text": "Case Studies",
+       "href": "/case-studies"
+      }
+     ],
+     [
+      {
+       "label": "Partnerships"
+      },
+      {
+       "text": "Programme Partnerships",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "SDG Alignment",
+       "href": "/sdg"
+      },
+      {
+       "text": "Impact Evaluations",
+       "href": "/impact-eval"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/programmes",
+      "title": "Flagship Programmes",
+      "text": "Multi-year country engagements measured by lasting institutional results."
+     },
+     {
+      "href": "/results",
+      "title": "Results Dashboard",
+      "text": "Track reform outcomes across partner nations and programmes."
+     }
+    ]
+   },
+   {
+    "id": "wd-dig",
+    "title": "Digital & Innovation",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Digital Economy",
+       "href": "/innovation"
+      },
+      {
+       "text": "Digital Infrastructure",
+       "href": "/digital-infra"
+      },
+      {
+       "text": "Artificial Intelligence",
+       "href": "/ai-cap"
+      },
+      {
+       "text": "Data & AI Governance",
+       "href": "/ai-governance"
+      }
+     ],
+     [
+      {
+       "text": "Technology Capability",
+       "href": "/tech-cap"
+      },
+      {
+       "text": "Technology, Media & Telecom",
+       "href": "/telecom"
+      },
+      {
+       "text": "Semiconductors",
+       "href": "/semiconductors"
+      }
+     ],
+     [
+      {
+       "text": "Institution Building",
+       "href": "/business-building"
+      },
+      {
+       "text": "Digital Implementation",
+       "href": "/implementation"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/innovation",
+      "title": "Digital Economy",
+      "text": "Digital public infrastructure, data governance and innovation systems."
+     },
+     {
+      "href": "/ai-cap",
+      "title": "Artificial Intelligence",
+      "text": "AI for public administration, diagnostics and service delivery."
+     }
+    ]
+   },
+   {
+    "id": "wd-green",
+    "title": "Green Transition",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Green Transition Overview",
+       "href": "/green"
+      },
+      {
+       "text": "Climate Finance",
+       "href": "/climate-finance"
+      },
+      {
+       "text": "Energy Transition",
+       "href": "/energy"
+      },
+      {
+       "text": "Sustainability Capability",
+       "href": "/sustainability-cap"
+      }
+     ],
+     [
+      {
+       "text": "Environmental Sustainability",
+       "href": "/environmental"
+      },
+      {
+       "text": "Water & Sanitation",
+       "href": "/water"
+      },
+      {
+       "text": "Sustainable Growth Report",
+       "href": "/sustainable-report"
+      }
+     ],
+     [
+      {
+       "text": "SDG Alignment",
+       "href": "/sdg"
+      },
+      {
+       "text": "Green Blended Finance",
+       "href": "/blended-finance"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/green",
+      "title": "Green Transition",
+      "text": "Pathways for low-carbon growth aligned with economic reform agendas."
+     },
+     {
+      "href": "/climate-finance",
+      "title": "Climate Finance",
+      "text": "Mobilising climate capital within national reform programmes."
+     }
+    ]
+   },
+   {
+    "id": "wd-del",
+    "title": "Delivery & Results",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Delivery & Implementation",
+       "href": "/delivery"
+      },
+      {
+       "text": "Implementation",
+       "href": "/implementation"
+      },
+      {
+       "text": "Operations Excellence",
+       "href": "/operations"
+      },
+      {
+       "text": "Monitoring & Evaluation",
+       "href": "/monitoring"
+      }
+     ],
+     [
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Impact Evaluations",
+       "href": "/impact-eval"
+      },
+      {
+       "text": "Country Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "Best Practices",
+       "href": "/best-practices"
+      }
+     ],
+     [
+      {
+       "text": "Reform Toolkits",
+       "href": "/toolkits"
+      },
+      {
+       "text": "From Idea to Impact",
+       "href": "/idea-to-impact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/delivery",
+      "title": "Delivery Systems",
+      "text": "Implementation units, problem-solving routines and adaptive management."
+     }
+    ]
+   },
+   {
+    "id": "wd-intel",
+    "title": "Intelligence & Diagnostics",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Economic Intelligence",
+       "href": "/intelligence"
+      },
+      {
+       "text": "Country Diagnostics",
+       "href": "/diagnostics"
+      },
+      {
+       "text": "Data Observatory",
+       "href": "/data-observatory"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      }
+     ],
+     [
+      {
+       "text": "Research Publications",
+       "href": "/research"
+      },
+      {
+       "text": "Policy Briefs",
+       "href": "/policy-briefs"
+      },
+      {
+       "text": "Global Surveys",
+       "href": "/global-surveys"
+      },
+      {
+       "text": "Week in Charts",
+       "href": "/week-in-charts"
+      }
+     ],
+     [
+      {
+       "text": "Ask UNERA",
+       "href": "/ask-unera"
+      },
+      {
+       "text": "Insights Library",
+       "href": "/insights"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/diagnostics",
+      "title": "Country Diagnostics",
+      "text": "Evidence-based assessment of constraints, capacity and reform sequencing."
+     },
+     {
+      "href": "/intelligence",
+      "title": "Economic Intelligence",
+      "text": "Data, analysis and foresight for reform leaders."
+     }
+    ]
+   },
+   {
+    "id": "wd-trade",
+    "title": "Trade & Markets",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Trade & Integration",
+       "href": "/trade"
+      },
+      {
+       "text": "Capital Markets",
+       "href": "/capital-markets"
+      },
+      {
+       "text": "FDI Facilitation",
+       "href": "/fdi"
+      },
+      {
+       "text": "Regulatory Reform",
+       "href": "/regulatory"
+      }
+     ],
+     [
+      {
+       "text": "Private Capital",
+       "href": "/private-capital"
+      },
+      {
+       "text": "Financial Services",
+       "href": "/financial-services"
+      },
+      {
+       "text": "Investment Facilitation",
+       "href": "/investment"
+      }
+     ],
+     [
+      {
+       "text": "Economic Reform",
+       "href": "/economy"
+      },
+      {
+       "text": "Structural Reform",
+       "href": "/structural"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/trade",
+      "title": "Trade & Integration",
+      "text": "Market access, trade facilitation and regional integration agendas."
+     }
+    ]
+   },
+   {
+    "id": "wd-human",
+    "title": "Human Capital",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Education",
+       "href": "/education-sector"
+      },
+      {
+       "text": "Healthcare",
+       "href": "/healthcare-sector"
+      },
+      {
+       "text": "People & Organization",
+       "href": "/people-org"
+      },
+      {
+       "text": "Economic Mobility",
+       "href": "/institute-mobility"
+      }
+     ],
+     [
+      {
+       "text": "Social Sector",
+       "href": "/social-sector"
+      },
+      {
+       "text": "Economic Opportunity",
+       "href": "/economic-opportunity"
+      },
+      {
+       "text": "Diverse Meritocracy",
+       "href": "/diversity"
+      }
+     ],
+     [
+      {
+       "text": "Careers at UNERA",
+       "href": "/careers"
+      },
+      {
+       "text": "Our People",
+       "href": "/people"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/institute-mobility",
+      "title": "Institute for Economic Mobility",
+      "text": "Skills, institutions and pathways for inclusive growth."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Global Impact",
+  "href": "/countries",
+  "wrapped": false,
+  "rail": [
+   {
+    "id": "gi-reg",
+    "label": "Regions"
+   },
+   {
+    "id": "gi-afr",
+    "label": "Africa"
+   },
+   {
+    "id": "gi-asia",
+    "label": "Asia-Pacific"
+   },
+   {
+    "id": "gi-latam",
+    "label": "Latin America"
+   },
+   {
+    "id": "gi-eur",
+    "label": "Europe & MENA"
+   },
+   {
+    "id": "gi-res",
+    "label": "Results"
+   },
+   {
+    "id": "gi-part",
+    "label": "Partners"
+   }
+  ],
+  "panels": [
+   {
+    "id": "gi-reg",
+    "title": "Where We Work",
+    "titleHref": "/countries",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Europe & Central Asia"
+      },
+      {
+       "text": "Europe & Central Asia",
+       "href": "/europe"
+      },
+      {
+       "text": "Western Europe",
+       "href": "/europe"
+      },
+      {
+       "text": "Eastern Europe",
+       "href": "/europe"
+      },
+      {
+       "text": "Central Asia",
+       "href": "/europe"
+      },
+      {
+       "text": "Western Balkans",
+       "href": "/europe"
+      },
+      {
+       "label": "Middle East & Africa"
+      },
+      {
+       "text": "Middle East & North Africa",
+       "href": "/mena"
+      },
+      {
+       "text": "Gulf Cooperation Council",
+       "href": "/gcc"
+      },
+      {
+       "text": "Africa",
+       "href": "/africa"
+      },
+      {
+       "text": "North Africa",
+       "href": "/africa-north"
+      },
+      {
+       "text": "West Africa",
+       "href": "/africa-west"
+      },
+      {
+       "text": "East Africa",
+       "href": "/africa-east"
+      },
+      {
+       "text": "Southern Africa",
+       "href": "/africa-south"
+      }
+     ],
+     [
+      {
+       "label": "Asia-Pacific"
+      },
+      {
+       "text": "Asia-Pacific",
+       "href": "/asia"
+      },
+      {
+       "text": "South Asia",
+       "href": "/asia-south"
+      },
+      {
+       "text": "Southeast Asia",
+       "href": "/asia-se"
+      },
+      {
+       "text": "Central Asia",
+       "href": "/asia-central"
+      },
+      {
+       "text": "East Asia",
+       "href": "/asia"
+      },
+      {
+       "text": "Pacific",
+       "href": "/asia"
+      },
+      {
+       "label": "Americas"
+      },
+      {
+       "text": "Latin America & Caribbean",
+       "href": "/latam"
+      },
+      {
+       "text": "Andean Region",
+       "href": "/latam-andean"
+      },
+      {
+       "text": "Southern Cone",
+       "href": "/latam-cone"
+      },
+      {
+       "text": "Central America",
+       "href": "/latam"
+      },
+      {
+       "text": "Caribbean",
+       "href": "/latam"
+      },
+      {
+       "text": "North America Partnerships",
+       "href": "/latam"
+      }
+     ],
+     [
+      {
+       "label": "Global Tools"
+      },
+      {
+       "text": "Country Directory",
+       "href": "/countries"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Country Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "Flagship Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Regional Partnerships",
+       "href": "/partnerships"
+      },
+      {
+       "text": "SDG Alignment",
+       "href": "/sdg"
+      },
+      {
+       "text": "Impact Evaluations",
+       "href": "/impact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/europe",
+      "title": "Europe & Central Asia",
+      "text": "Reform engagement across EU neighbourhood, Western Balkans and Central Asia."
+     },
+     {
+      "href": "/results",
+      "title": "47 Partner Nations",
+      "text": "Deep country engagements across five regions measured by lasting results."
+     }
+    ]
+   },
+   {
+    "id": "gi-afr",
+    "title": "Africa",
+    "titleHref": "/africa",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Regional Focus"
+      },
+      {
+       "text": "Africa Overview",
+       "href": "/africa"
+      },
+      {
+       "text": "West Africa",
+       "href": "/africa-west"
+      },
+      {
+       "text": "East Africa",
+       "href": "/africa-east"
+      },
+      {
+       "text": "Southern Africa",
+       "href": "/africa-south"
+      },
+      {
+       "text": "North Africa",
+       "href": "/africa-north"
+      },
+      {
+       "text": "Sahel",
+       "href": "/africa"
+      },
+      {
+       "text": "Horn of Africa",
+       "href": "/africa"
+      },
+      {
+       "text": "Great Lakes",
+       "href": "/africa"
+      }
+     ],
+     [
+      {
+       "label": "Programmes & Themes"
+      },
+      {
+       "text": "Africa Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Africa Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "National Transformation",
+       "href": "/transform"
+      },
+      {
+       "text": "Economic Reform",
+       "href": "/economy"
+      },
+      {
+       "text": "Agriculture & Agribusiness",
+       "href": "/agriculture"
+      },
+      {
+       "text": "Energy Transition",
+       "href": "/energy"
+      },
+      {
+       "text": "Infrastructure",
+       "href": "/infrastructure"
+      },
+      {
+       "text": "Digital Public Infrastructure",
+       "href": "/digital"
+      }
+     ],
+     [
+      {
+       "label": "Partners & Results"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Regional Partnerships",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Development Banks",
+       "href": "/development-banks"
+      },
+      {
+       "text": "Membership",
+       "href": "/membership"
+      },
+      {
+       "text": "Country Directory",
+       "href": "/countries"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/africa",
+      "title": "Africa Engagement",
+      "text": "National transformation programmes across West, East, Southern and North Africa."
+     },
+     {
+      "href": "/programmes",
+      "title": "Flagship Programmes",
+      "text": "Multi-year country engagements measured by institutional results."
+     }
+    ]
+   },
+   {
+    "id": "gi-asia",
+    "title": "Asia-Pacific",
+    "titleHref": "/asia",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Regional Focus"
+      },
+      {
+       "text": "Asia-Pacific Overview",
+       "href": "/asia"
+      },
+      {
+       "text": "South Asia",
+       "href": "/asia-south"
+      },
+      {
+       "text": "Southeast Asia",
+       "href": "/asia-se"
+      },
+      {
+       "text": "Central Asia",
+       "href": "/asia-central"
+      },
+      {
+       "text": "East Asia",
+       "href": "/asia"
+      },
+      {
+       "text": "Pacific Island Economies",
+       "href": "/asia"
+      },
+      {
+       "text": "Mekong Region",
+       "href": "/asia"
+      }
+     ],
+     [
+      {
+       "label": "Programmes & Themes"
+      },
+      {
+       "text": "Asia Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Asia Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "National Transformation",
+       "href": "/transform"
+      },
+      {
+       "text": "Trade & Integration",
+       "href": "/trade"
+      },
+      {
+       "text": "Digital Economy",
+       "href": "/digital"
+      },
+      {
+       "text": "Green Transition",
+       "href": "/green"
+      },
+      {
+       "text": "Infrastructure & Capital",
+       "href": "/infrastructure"
+      },
+      {
+       "text": "Financial Sector Reform",
+       "href": "/financial-services"
+      }
+     ],
+     [
+      {
+       "label": "Partners & Results"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Regional Partnerships",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Development Banks",
+       "href": "/development-banks"
+      },
+      {
+       "text": "Country Directory",
+       "href": "/countries"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      },
+      {
+       "text": "Membership",
+       "href": "/membership"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/asia",
+      "title": "Asia-Pacific",
+      "text": "Reform engagement across South, Southeast and Central Asia."
+     },
+     {
+      "href": "/asia-se",
+      "title": "Southeast Asia",
+      "text": "Structural reform, digital public infrastructure and capital mobilisation."
+     }
+    ]
+   },
+   {
+    "id": "gi-latam",
+    "title": "Latin America",
+    "titleHref": "/latam",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Regional Focus"
+      },
+      {
+       "text": "Latin America & Caribbean",
+       "href": "/latam"
+      },
+      {
+       "text": "Andean Region",
+       "href": "/latam-andean"
+      },
+      {
+       "text": "Southern Cone",
+       "href": "/latam-cone"
+      },
+      {
+       "text": "Central America",
+       "href": "/latam"
+      },
+      {
+       "text": "Caribbean",
+       "href": "/latam"
+      },
+      {
+       "text": "Brazil & Southern Markets",
+       "href": "/latam"
+      },
+      {
+       "text": "Mexico & North Partnerships",
+       "href": "/latam"
+      }
+     ],
+     [
+      {
+       "label": "Programmes & Themes"
+      },
+      {
+       "text": "LatAm Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Country Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "National Transformation",
+       "href": "/transform"
+      },
+      {
+       "text": "Economic Reform",
+       "href": "/economy"
+      },
+      {
+       "text": "Public Finance",
+       "href": "/fiscal"
+      },
+      {
+       "text": "Infrastructure & PPPs",
+       "href": "/infrastructure"
+      },
+      {
+       "text": "Green Transition",
+       "href": "/green"
+      },
+      {
+       "text": "Social Sector Reform",
+       "href": "/social-sector"
+      }
+     ],
+     [
+      {
+       "label": "Partners & Results"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Regional Partnerships",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Development Banks",
+       "href": "/development-banks"
+      },
+      {
+       "text": "Country Directory",
+       "href": "/countries"
+      },
+      {
+       "text": "Membership",
+       "href": "/membership"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/latam",
+      "title": "Latin America & Caribbean",
+      "text": "Country programmes across Andean, Southern Cone and Caribbean economies."
+     },
+     {
+      "href": "/latam-andean",
+      "title": "Andean Region",
+      "text": "Institutional reform, fiscal frameworks and capital mobilisation."
+     }
+    ]
+   },
+   {
+    "id": "gi-eur",
+    "title": "Europe & MENA",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Europe & Central Asia"
+      },
+      {
+       "text": "Europe & Central Asia",
+       "href": "/europe"
+      },
+      {
+       "text": "Western Europe",
+       "href": "/europe"
+      },
+      {
+       "text": "Eastern Europe",
+       "href": "/europe"
+      },
+      {
+       "text": "Western Balkans",
+       "href": "/europe"
+      },
+      {
+       "text": "Central Asia",
+       "href": "/europe"
+      },
+      {
+       "text": "EU Neighbourhood",
+       "href": "/europe"
+      }
+     ],
+     [
+      {
+       "label": "Middle East & GCC"
+      },
+      {
+       "text": "Middle East & North Africa",
+       "href": "/mena"
+      },
+      {
+       "text": "Gulf Cooperation Council",
+       "href": "/gcc"
+      },
+      {
+       "text": "Levant",
+       "href": "/mena"
+      },
+      {
+       "text": "Maghreb",
+       "href": "/mena"
+      },
+      {
+       "text": "GCC Economic Diversification",
+       "href": "/gcc"
+      }
+     ],
+     [
+      {
+       "label": "Programmes & Tools"
+      },
+      {
+       "text": "Flagship Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Country Directory",
+       "href": "/countries"
+      },
+      {
+       "text": "Partnerships",
+       "href": "/partnerships"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/europe",
+      "title": "Europe & Central Asia",
+      "text": "Reform engagement across EU neighbourhood, Western Balkans and Central Asia."
+     },
+     {
+      "href": "/gcc",
+      "title": "Gulf Cooperation Council",
+      "text": "Diversification, public sector transformation and capital markets."
+     }
+    ]
+   },
+   {
+    "id": "gi-res",
+    "title": "Results",
+    "titleHref": "/results",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Measurement"
+      },
+      {
+       "text": "Results Dashboard",
+       "href": "/results"
+      },
+      {
+       "text": "Impact Evaluations",
+       "href": "/impact"
+      },
+      {
+       "text": "Monitoring & Evaluation",
+       "href": "/me"
+      },
+      {
+       "text": "SDG Alignment",
+       "href": "/sdg"
+      },
+      {
+       "text": "Annual Reports",
+       "href": "/annual-report"
+      },
+      {
+       "text": "Reform Indicators",
+       "href": "/indicators"
+      }
+     ],
+     [
+      {
+       "label": "Evidence & Learning"
+      },
+      {
+       "text": "Country Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "Flagship Programmes",
+       "href": "/programmes"
+      },
+      {
+       "text": "Research Library",
+       "href": "/research"
+      },
+      {
+       "text": "Working Papers",
+       "href": "/working-papers"
+      },
+      {
+       "text": "Insights",
+       "href": "/insights"
+      },
+      {
+       "text": "Policy Briefs",
+       "href": "/policy-briefs"
+      }
+     ],
+     [
+      {
+       "label": "Country Tools"
+      },
+      {
+       "text": "Country Directory",
+       "href": "/countries"
+      },
+      {
+       "text": "Country Explorer",
+       "href": "/explorer"
+      },
+      {
+       "text": "Partner Nation Profiles",
+       "href": "/countries"
+      },
+      {
+       "text": "Outcomes by Region",
+       "href": "/results"
+      },
+      {
+       "text": "Impact Stories",
+       "href": "/impact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/results",
+      "title": "Results Dashboard",
+      "text": "Track reform outcomes across partner nations and flagship programmes."
+     },
+     {
+      "href": "/case-studies",
+      "title": "Country Case Studies",
+      "text": "Evidence from multi-year institutional engagements."
+     }
+    ]
+   },
+   {
+    "id": "gi-part",
+    "title": "Partners",
+    "titleHref": "/partnerships",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Institutional Partners"
+      },
+      {
+       "text": "Strategic Partners",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Development Banks",
+       "href": "/development-banks"
+      },
+      {
+       "text": "Governments",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Private Sector",
+       "href": "/private-sector"
+      },
+      {
+       "text": "Philanthropy",
+       "href": "/philanthropy"
+      },
+      {
+       "text": "Alliances",
+       "href": "/alliances"
+      }
+     ],
+     [
+      {
+       "label": "Networks & Membership"
+      },
+      {
+       "text": "Membership",
+       "href": "/membership"
+      },
+      {
+       "text": "Partner Capabilities Network",
+       "href": "/partner-network"
+      },
+      {
+       "text": "Institutional Membership",
+       "href": "/membership"
+      },
+      {
+       "text": "Associate Membership",
+       "href": "/membership"
+      },
+      {
+       "text": "Engagement Opportunities",
+       "href": "/opportunities"
+      }
+     ],
+     [
+      {
+       "label": "Engage"
+      },
+      {
+       "text": "Partner With Us",
+       "href": "/contact"
+      },
+      {
+       "text": "Contact Secretariat",
+       "href": "/contact"
+      },
+      {
+       "text": "Careers",
+       "href": "/careers"
+      },
+      {
+       "text": "Secondments & Fellowships",
+       "href": "/secondments"
+      },
+      {
+       "text": "Media",
+       "href": "/media"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/partnerships",
+      "title": "Strategic Partners",
+      "text": "Governments, DFIs, private capital and philanthropic institutions."
+     },
+     {
+      "href": "/membership",
+      "title": "Membership",
+      "text": "Join UNERA’s institutional network for reform and transformation."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Insights",
+  "href": "/insights",
+  "wrapped": true,
+  "rail": [
+   {
+    "id": "in-res",
+    "label": "Our Insights"
+   },
+   {
+    "id": "in-know",
+    "label": "Knowledge"
+   },
+   {
+    "id": "in-evt",
+    "label": "Events"
+   },
+   {
+    "id": "in-media",
+    "label": "Media"
+   }
+  ],
+  "panels": [
+   {
+    "id": "in-res",
+    "title": "Explore our Insights",
+    "titleHref": "/insights",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "label": "Go Deeper"
+      },
+      {
+       "text": "Author Talks",
+       "href": "/author-talks"
+      },
+      {
+       "text": "Case Studies",
+       "href": "/case-studies"
+      },
+      {
+       "text": "Global Surveys",
+       "href": "/global-surveys"
+      },
+      {
+       "text": "UNERA Explainers",
+       "href": "/explainers"
+      },
+      {
+       "text": "Health Systems Institute",
+       "href": "/health-institute"
+      },
+      {
+       "text": "Institute for Economic Mobility",
+       "href": "/institute-mobility"
+      },
+      {
+       "text": "UNERA Live",
+       "href": "/live"
+      }
+     ],
+     [
+      {
+       "label": "Publications"
+      },
+      {
+       "text": "Research Publications",
+       "href": "/research"
+      },
+      {
+       "text": "Policy Briefs",
+       "href": "/policy-briefs"
+      },
+      {
+       "text": "Working Papers",
+       "href": "/working-papers"
+      },
+      {
+       "text": "UNERA Quarterly",
+       "href": "/quarterly"
+      },
+      {
+       "text": "Reform Themes",
+       "href": "/themes"
+      },
+      {
+       "text": "UNERA Podcast",
+       "href": "/podcast"
+      },
+      {
+       "text": "Week in Charts",
+       "href": "/week-in-charts"
+      }
+     ],
+     [
+      {
+       "label": "Stay Informed"
+      },
+      {
+       "text": "Article Alerts",
+       "href": "/article-alerts"
+      },
+      {
+       "text": "Newsletters",
+       "href": "/newsletter"
+      },
+      {
+       "text": "Data Observatory",
+       "href": "/data-observatory"
+      },
+      {
+       "text": "Economic Intelligence",
+       "href": "/intelligence"
+      },
+      {
+       "text": "Ask UNERA",
+       "href": "/ask-unera"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/ask-unera",
+      "title": "Ask UNERA",
+      "text": "Get answers on reform, policy and development — based on UNERA insights and diagnostics."
+     },
+     {
+      "href": "/quarterly",
+      "title": "UNERA Quarterly",
+      "text": "Our flagship publication informing the reform and development agenda."
+     },
+     {
+      "href": "/institute-mobility",
+      "title": "Institute for Economic Mobility",
+      "text": "Deeper understanding of inclusive growth and economic mobility."
+     }
+    ]
+   },
+   {
+    "id": "in-know",
+    "title": "Knowledge",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Reform Toolkits",
+       "href": "/toolkits"
+      },
+      {
+       "text": "Best Practices",
+       "href": "/best-practices"
+      },
+      {
+       "text": "Diagnostic Tools",
+       "href": "/diagnostics"
+      },
+      {
+       "text": "Delivery Playbooks",
+       "href": "/delivery"
+      }
+     ],
+     [
+      {
+       "text": "Explainers",
+       "href": "/explainers"
+      },
+      {
+       "text": "Themes",
+       "href": "/themes"
+      },
+      {
+       "text": "Data Observatory",
+       "href": "/data-observatory"
+      }
+     ],
+     [
+      {
+       "text": "Newsletter",
+       "href": "/newsletter"
+      },
+      {
+       "text": "Article Alerts",
+       "href": "/article-alerts"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/toolkits",
+      "title": "Reform Toolkits",
+      "text": "Practical frameworks for designing and delivering economic reform."
+     }
+    ]
+   },
+   {
+    "id": "in-evt",
+    "title": "Events",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Upcoming Events",
+       "href": "/events"
+      },
+      {
+       "text": "UNERA Annual Summit",
+       "href": "/summit"
+      },
+      {
+       "text": "Policy Roundtables",
+       "href": "/roundtables"
+      }
+     ],
+     [
+      {
+       "text": "Webinars",
+       "href": "/webinars"
+      },
+      {
+       "text": "Author Talks",
+       "href": "/author-talks"
+      },
+      {
+       "text": "UNERA Live",
+       "href": "/live"
+      }
+     ],
+     [
+      {
+       "text": "Host an Event",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/summit",
+      "title": "UNERA Annual Summit",
+      "text": "Convening reform leaders, institutions and capital partners worldwide."
+     }
+    ]
+   },
+   {
+    "id": "in-media",
+    "title": "Media",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Media Centre",
+       "href": "/media"
+      },
+      {
+       "text": "Press Releases",
+       "href": "/press"
+      },
+      {
+       "text": "Speeches & Statements",
+       "href": "/speeches"
+      }
+     ],
+     [
+      {
+       "text": "Newsletter",
+       "href": "/newsletter"
+      },
+      {
+       "text": "Podcast",
+       "href": "/podcast"
+      },
+      {
+       "text": "Week in Charts",
+       "href": "/week-in-charts"
+      }
+     ],
+     [
+      {
+       "text": "Media Enquiries",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/media",
+      "title": "Media Centre",
+      "text": "Press materials, statements and resources for journalists."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Engage",
+  "href": "/opportunities",
+  "wrapped": true,
+  "rail": [
+   {
+    "id": "en-mem",
+    "label": "Membership"
+   },
+   {
+    "id": "en-part",
+    "label": "Partnerships"
+   },
+   {
+    "id": "en-opp",
+    "label": "Opportunities"
+   },
+   {
+    "id": "en-con",
+    "label": "Contact"
+   }
+  ],
+  "panels": [
+   {
+    "id": "en-mem",
+    "title": "Membership",
+    "titleHref": "/membership",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Become a Member",
+       "href": "/membership"
+      },
+      {
+       "text": "Membership Tiers",
+       "href": "/membership-tiers"
+      },
+      {
+       "text": "Current Members",
+       "href": "/partnerships"
+      }
+     ],
+     [
+      {
+       "text": "Alliances",
+       "href": "/alliances"
+      },
+      {
+       "text": "Partner Network",
+       "href": "/client-network"
+      }
+     ],
+     [
+      {
+       "text": "Membership Enquiries",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/membership",
+      "title": "Join the Alliance",
+      "text": "Governments and institutions invited to UNERA membership."
+     }
+    ]
+   },
+   {
+    "id": "en-part",
+    "title": "Partnerships",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Partner With Us",
+       "href": "/partnerships"
+      },
+      {
+       "text": "Development Banks",
+       "href": "/dev-banks"
+      },
+      {
+       "text": "Private Sector",
+       "href": "/private-sector"
+      }
+     ],
+     [
+      {
+       "text": "Philanthropy",
+       "href": "/philanthropy"
+      },
+      {
+       "text": "Private Capital",
+       "href": "/private-capital"
+      },
+      {
+       "text": "Technical Assistance",
+       "href": "/technical-assistance"
+      }
+     ],
+     [
+      {
+       "text": "Alliances",
+       "href": "/alliances"
+      },
+      {
+       "text": "Capabilities Network",
+       "href": "/client-network"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/partnerships",
+      "title": "Partner With UNERA",
+      "text": "Collaborate on transformative economic reform programmes."
+     }
+    ]
+   },
+   {
+    "id": "en-opp",
+    "title": "Opportunities",
+    "titleHref": null,
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "Careers",
+       "href": "/careers"
+      },
+      {
+       "text": "Internships",
+       "href": "/internships"
+      },
+      {
+       "text": "Secondments",
+       "href": "/secondments"
+      },
+      {
+       "text": "Alumni",
+       "href": "/alumni"
+      }
+     ],
+     [
+      {
+       "text": "Calls for Proposals",
+       "href": "/proposals"
+      },
+      {
+       "text": "Procurement",
+       "href": "/procurement"
+      },
+      {
+       "text": "All Opportunities",
+       "href": "/opportunities"
+      }
+     ],
+     [
+      {
+       "text": "Locations",
+       "href": "/locations"
+      },
+      {
+       "text": "Apply",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/careers",
+      "title": "Careers at UNERA",
+      "text": "Join teams advancing national transformation worldwide."
+     }
+    ]
+   },
+   {
+    "id": "en-con",
+    "title": "Contact",
+    "titleHref": "/contact",
+    "noFeat": false,
+    "cols": [
+     [
+      {
+       "text": "General Enquiries",
+       "href": "/contact"
+      },
+      {
+       "text": "Request Technical Assistance",
+       "href": "/technical-assistance"
+      },
+      {
+       "text": "Regional Offices",
+       "href": "/locations"
+      }
+     ],
+     [
+      {
+       "text": "Media",
+       "href": "/media"
+      },
+      {
+       "text": "Careers",
+       "href": "/careers"
+      },
+      {
+       "text": "Membership",
+       "href": "/membership"
+      }
+     ],
+     [
+      {
+       "text": "Procurement",
+       "href": "/procurement"
+      },
+      {
+       "text": "Secretariat",
+       "href": "/contact"
+      }
+     ]
+    ],
+    "featured": [
+     {
+      "href": "/contact",
+      "title": "Start a Conversation",
+      "text": "Reach the Secretariat, regional offices or partnership teams."
+     }
+    ]
+   }
+  ]
+ }
+]

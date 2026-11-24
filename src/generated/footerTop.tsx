@@ -1,0 +1,8 @@
+/* AUTO-GENERATED footer link columns. */
+import { A } from "@/components/A";
+
+export function FooterTop() {
+  return (
+    <><div className="footer-brand"><img src="/assets/logo-unera-transparent.png" alt="UNERA" className="footer-logo" /><p className="footer-tagline">Transforming Economies. Shaping the Future.</p><p className="footer-desc">Universal Economic Reform Alliance — a global institutional platform for economic reform, national transformation and long-term development.</p></div><div className="footer-cols"><div className="footer-col"><h4>Who We Are</h4><A href="/about">About</A>{" "}<A href="/leadership">Leadership</A>{" "}<A href="/governance">Governance</A>{" "}<A href="/careers">Careers</A></div><div className="footer-col"><h4>What We Do</h4><A href="/capabilities">Capabilities</A>{" "}<A href="/transform">Transformation</A>{" "}<A href="/programmes">Programmes</A>{" "}<A href="/sectors">Sectors</A></div><div className="footer-col"><h4>Global Impact</h4><A href="/countries">Where We Work</A>{" "}<A href="/africa">Africa</A>{" "}<A href="/asia">Asia-Pacific</A>{" "}<A href="/europe">{"Europe & MENA"}</A>{" "}<A href="/latam">Latin America</A></div><div className="footer-col"><h4>Engage</h4><A href="/membership">Membership</A>{" "}<A href="/partnerships">Partner With Us</A>{" "}<A href="/opportunities">Opportunities</A>{" "}<A href="/contact">Contact</A></div><div className="footer-col"><h4>Resources</h4><A href="/insights">Insights</A>{" "}<A href="/research">Research</A>{" "}<A href="/case-studies">Case Studies</A>{" "}<A href="/media">Media</A>{" "}<A href="/annual-report">Annual Report</A></div></div></>
+  );
+}

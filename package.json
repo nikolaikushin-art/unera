@@ -1,0 +1,33 @@
+{
+  "name": "unera-world",
+  "private": true,
+  "version": "1.0.0",
+  "description": "UNERA — Universal Economic Reform Alliance. React + Vite + TanStack Router, prerendered to static HTML.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "start": "vite dev --host --port 3000",
+    "build": "vite build && vite build -c prerender/vite.ssr.config.ts && node prerender/prerender.mjs",
+    "build:spa": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "images:localize": "node scripts/localize-images.mjs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/libre-baskerville": "^5.2.8",
+    "@tanstack/react-router": "^1.170.18",
+    "@tanstack/router-plugin": "^1.168.23",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.16.5",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.2.0",
+    "typescript": "^5.8.3",
+    "vite": "^8.1.5"
+  },
+  "engines": { "node": "22.x" }
+}

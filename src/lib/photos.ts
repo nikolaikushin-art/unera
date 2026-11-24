@@ -1,0 +1,52 @@
+/**
+ * Photography library carried over from the H-Hunters site (corporate, executive, strategy,
+ * global-reach and Gulf business-district scenes). Remote URLs; run `npm run images:localize`
+ * to bundle them. Studio photographs below are local files.
+ */
+export const photos = {
+  heroSkyline: "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1400&q=70",
+  citySkylineNight: "https://images.unsplash.com/photo-1486325212027-8081e485255e?auto=format&fit=crop&w=1400&q=70",
+  towersUp: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&q=70",
+  glassTower: "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?auto=format&fit=crop&w=900&q=70",
+  officeTeam: "https://images.unsplash.com/photo-1737703638422-2cfa152cdcb7?auto=format&fit=crop&w=900&q=70",
+  teamTable: "https://images.unsplash.com/photo-1572907902050-e18ec299c585?auto=format&fit=crop&w=900&q=70",
+  teamLaptops: "https://images.unsplash.com/photo-1431576901776-e539bd916ba2?auto=format&fit=crop&w=900&q=70",
+  boardroom: "https://images.unsplash.com/photo-1551836022-8b2858c9c69b?auto=format&fit=crop&w=900&q=70",
+  meetingGlass: "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=900&q=70",
+  openOffice: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=900&q=70",
+  officeLounge: "https://images.unsplash.com/photo-1739242280409-00230c425a9c?auto=format&fit=crop&w=900&q=70",
+  modernOffice: "https://images.unsplash.com/photo-1681548140302-24c2ce729fa5?auto=format&fit=crop&w=900&q=70",
+  handshake: "https://images.unsplash.com/photo-1695390994823-eb74da2932c6?auto=format&fit=crop&w=900&q=70",
+  handsTeam: "https://images.unsplash.com/photo-1610919037375-104e281abd6b?auto=format&fit=crop&w=900&q=70",
+  celebrate: "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=900&q=70",
+  brainstorm: "https://images.unsplash.com/photo-1769636929261-e913ed023c83?auto=format&fit=crop&w=900&q=70",
+  screensTeam: "https://images.unsplash.com/photo-1740030325895-bde99b8284f6?auto=format&fit=crop&w=900&q=70",
+  consultancy: "https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=900&q=70",
+  analytics: "https://images.unsplash.com/photo-1562595410-4859d718375e?auto=format&fit=crop&w=900&q=70",
+  crm: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=900&q=70",
+  laptopWork: "https://images.unsplash.com/photo-1560264280-88b68371db39?auto=format&fit=crop&w=900&q=70",
+  deskPhone: "https://images.unsplash.com/photo-1760543998147-117ae5649c5c?auto=format&fit=crop&w=900&q=70",
+  corridorWalk: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=900&q=70",
+  londonWestminster: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1400&q=70",
+  londonTowerBridge: "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1400&q=70",
+  londonCanary: "https://images.unsplash.com/photo-1582407947304-fd86f028f716?auto=format&fit=crop&w=1400&q=70",
+  londonSkyline: "https://images.unsplash.com/photo-1681548142584-a8fb9f66b160?auto=format&fit=crop&w=1400&q=70",
+  cityOfLondon: "https://images.unsplash.com/photo-1462556791646-c201b8241a94?auto=format&fit=crop&w=1400&q=70",
+  londonStPauls: "https://images.unsplash.com/photo-1623150502742-6a849aa94be4?auto=format&fit=crop&w=1400&q=70",
+  londonThames: "https://images.unsplash.com/photo-1765370847579-70d5d83401d2?auto=format&fit=crop&w=1400&q=70",
+  londonTerrace: "https://images.unsplash.com/photo-1760372058247-0067beeeef70?auto=format&fit=crop&w=1400&q=70",
+  parisSeine: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1400&q=70",
+  parisArchitecture: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1400&q=70",
+  parisEditorial: "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1400&q=70",
+  amsterdamCanal: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=1400&q=70",
+  veniceInstitution: "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1400&q=70",
+  berlinCivic: "https://images.unsplash.com/photo-1558478551-1a378f63328e?auto=format&fit=crop&w=1400&q=70",
+  europeanHotelLobby: "https://images.unsplash.com/photo-1742844552193-2fd3425cd26d?auto=format&fit=crop&w=1400&q=70",
+  europeanEmptyBoard: "https://images.unsplash.com/photo-1569104204151-5f6acfafadce?auto=format&fit=crop&w=1400&q=70",
+} as const;
+
+export const studio = {
+  boardroom: "/images/studio/studio-rec-boardroom.jpg",
+  corridor: "/images/studio/studio-rec-leadership.jpg",
+  floor: "/images/studio/studio-org-floor.jpg",
+} as const;
